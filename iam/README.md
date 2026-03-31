@@ -47,3 +47,9 @@ every healthcare AWS environment:
 If any of these exist in your environment, start here before 
 implementing new configurations. Fixing existing gaps is more 
 important than adding new controls on top of a broken foundation.
+
+## 📺 Watch
+
+[![AWS IAM for HIPAA Compliance – Full Walkthrough](https://img.youtube.com/vi/GOMpEgBRjH4/maxresdefault.jpg)](https://youtu.be/GOMpEgBRjH4)
+
+**[AWS IAM for HIPAA Compliance – Full Walkthrough](https://youtu.be/GOMpEgBRjH4)**
